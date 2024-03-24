@@ -1,0 +1,1 @@
+The only issue with the project is the location of bounding boxes. The location of object detection is left shifted. I think this can be corrected by training the model for more mumber of images. Also by tweaking the confidence score factors and other things it can be improved.
